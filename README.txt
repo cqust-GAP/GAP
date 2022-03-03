@@ -16,4 +16,5 @@ Open file "Adpruner_cifar.py ",execute the following commands in sequence(Resnet
 --gpus 0
 
 Note:Please download the datasets and the official weight file yourself,you can adjust the above parameters.
+Environment:Python3.6 with PyTorch1.4
 
